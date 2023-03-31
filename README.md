@@ -1,7 +1,4 @@
-# aiGPT
 # Customer Assistance aiGPT 
-Customer Assistance aiGPT
-
 This project is aimed at creating a customer assistance aiGPT that can provide timely and accurate responses to customer inquiries. The aiGPT will be trained using natural language processing (NLP) and machine learning (ML) techniques to recognize user inputs and provide appropriate responses.
 
 Requirements
